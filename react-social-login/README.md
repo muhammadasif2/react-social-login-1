@@ -1,11 +1,11 @@
 # Social Media login process
 
-- First create app on googl console [https://console.cloud.google.com/].
-- Create project add name and location.
-- Select project.
+- First, create an app on Google console [https://console.cloud.google.com/].
+- Create a project and add a name and location.
+- Select a project.
 - Crete credentials.
-- Add api key, Auth client ID.
-- After getting client ID and put it into the Google Package for login via google.
+- Add API key, and Auth client ID.
+- After getting the client ID put it into the Google Package for login via Google.
 
 # What's being used
 
